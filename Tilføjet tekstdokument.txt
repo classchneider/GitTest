@@ -1,1 +1,2 @@
 Første tilføjelse til GitHub repository GitTest
+Tilføjelse af tekst til tekstdokumentet oprettet tidligere
